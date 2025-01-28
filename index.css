@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: SoDoSans;
+    src: url("assets/fonts/sodo-sans/SoDoSans-Regular.ttf");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: SoDoSans;
+    src: url("assets/fonts/sodo-sans/SoDoSans-Bold.ttf");
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: SoDoSans;
+    src: url("assets/fonts/sodo-sans/SoDoSans-SemiBold.ttf");
+    font-weight: 800;
+}
